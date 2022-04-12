@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michalsn13
 - 👀 I’m interested in Mathematics and its use in Financial Markets
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on every Python related project (to learn more)
+- 🌱 I’m currently learning Python and R
+- 💞️ I’m looking to collaborate on every Python/R related project (to learn more)
 - 📫 How to reach me: in/dąbrowskimichał/
 
 <!---
